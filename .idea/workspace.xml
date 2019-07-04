@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecf8f17f-4eab-42a7-9059-2418d3112137" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="simpleSurance" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MovingWindow/window_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="78" column="11" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MovingWindow/window.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+              <folding>
+                <element signature="e#17#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FormValue</find>
+      <find>loadPage</find>
+      <find>renderTemplate</find>
+      <find>update</find>
+      <find>updateFiles</find>
+      <find>syncW</find>
+      <find>UpdateFiles</find>
+      <find>Fscanln</find>
+      <find>print</find>
+      <find>clear</find>
+      <find>UnixNano</find>
+      <find>time.Now()</find>
+      <find>remove</find>
+      <find>now</find>
+      <find>printl</find>
+      <find>1560621849041359500</find>
+      <find>println</find>
+      <find>1560687820517801800</find>
+      <find>1560687790073579500</find>
+      <find>manager</find>
+      <find>updateWindow</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:\Users\xswml\go\go1.12.5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SimpleSurance" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/edit.html" />
+        <option value="$PROJECT_DIR$/db.txt" />
+        <option value="$PROJECT_DIR$/wiki.go" />
+        <option value="$PROJECT_DIR$/view.html" />
+        <option value="$PROJECT_DIR$/fileManager.go" />
+        <option value="$PROJECT_DIR$/server.go" />
+        <option value="$PROJECT_DIR$/window.go" />
+        <option value="$PROJECT_DIR$/MowingWindow/window.go" />
+        <option value="$PROJECT_DIR$/DB/db2.txt" />
+        <option value="$PROJECT_DIR$/FileMAnager/fileManager.go" />
+        <option value="$PROJECT_DIR$/DB/db1.txt" />
+        <option value="$PROJECT_DIR$/Main/main.go" />
+        <option value="$PROJECT_DIR$/FileMAnager/manager.go" />
+        <option value="$PROJECT_DIR$/FileMAnager/manager_test.go" />
+        <option value="$PROJECT_DIR$/FileManager/manager.go" />
+        <option value="$PROJECT_DIR$/Server/server.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/MovingWindow/window.go" />
+        <option value="$PROJECT_DIR$/MovingWindow/window_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simpleSurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleSurance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleSurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleSurance" type="462c0819:PsiDirectoryNode" />
+              <item name="MovingWindow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simpleSurance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xswml\go\src\simpleSurance" />
+      <recent name="C:\Users\xswml\go\src\simpleSurance\DB" />
+      <recent name="C:\Users\xswml\go\src\simpleSurance\Pages" />
+      <recent name="C:\Users\xswml\go\src\simpleSurance\FileMAnager" />
+      <recent name="C:\Users\xswml\go\src\simpleSurance\MowingWindow" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="simpleSurance" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="simpleSurance" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovingWindow_Clear in simpleSurance/MovingWindow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="simpleSurance" />
+      <working_directory value="$PROJECT_DIR$/MovingWindow" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="simpleSurance/MovingWindow" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMovingWindow_Clear$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="simpleSurance" />
+      <working_directory value="$PROJECT_DIR$/MovingWindow" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="simpleSurance/MovingWindow" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMovingWindow_Moving$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="simpleSurance" />
+      <working_directory value="$PROJECT_DIR$/MovingWindow" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="simpleSurance/MovingWindow" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMovingWindow_Moving_Mock$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovingWindow_Request in simpleSurance/MovingWindow" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="simpleSurance" />
+      <working_directory value="$PROJECT_DIR$/MovingWindow" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="simpleSurance/MovingWindow" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMovingWindow_Request$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.TestMovingWindow_Moving in simpleSurance/MovingWindow" />
+      <item itemvalue="Go Test.TestMovingWindow_Clear in simpleSurance/MovingWindow" />
+      <item itemvalue="Go Test.TestMovingWindow_Request in simpleSurance/MovingWindow" />
+      <item itemvalue="Go Test.TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" />
+        <item itemvalue="Go Test.TestMovingWindow_Request in simpleSurance/MovingWindow" />
+        <item itemvalue="Go Test.TestMovingWindow_Clear in simpleSurance/MovingWindow" />
+        <item itemvalue="Go Test.TestMovingWindow_Moving in simpleSurance/MovingWindow" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMovingWindow_Moving_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 17m 29s.xml">
+      <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 18m 19s.xml">
+      <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 24m 38s.xml">
+      <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 25m 25s.xml">
+      <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 31m 04s.xml">
+      <configuration name="TestMovingWindow_Moving in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Clear_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 31m 11s.xml">
+      <configuration name="TestMovingWindow_Clear in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Request_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 31m 15s.xml">
+      <configuration name="TestMovingWindow_Request in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_Mock_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 39m 09s.xml">
+      <configuration name="TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_Mock_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 39m 57s.xml">
+      <configuration name="TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMovingWindow_Moving_Mock_in_simpleSurance_MovingWindow - 2019.07.04 at 17h 40m 26s.xml">
+      <configuration name="TestMovingWindow_Moving_Mock in simpleSurance/MovingWindow" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.26442954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50095236" side_tool="true" weight="0.17248322" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3186969" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89731544" visible="true" weight="0.15014164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.102684565" side_tool="true" weight="0.26912183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990476" visible="true" weight="0.18724832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50095236" side_tool="true" weight="0.17248322" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3186969" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89731544" visible="true" weight="0.26912183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.102684565" side_tool="true" visible="true" weight="0.26912183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/edit.html" />
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/text/template/exec.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="202" column="45" selection-start-line="202" selection-start-column="41" selection-end-line="202" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.txt.txt" />
+    <entry file="file://$PROJECT_DIR$/db2" />
+    <entry file="file://$PROJECT_DIR$/db1.txt" />
+    <entry file="file://$PROJECT_DIR$/view.html" />
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/syscall/syscall_windows.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="469" column="26" selection-start-line="469" selection-start-column="20" selection-end-line="469" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/internal/poll/fd_posix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/os/file_posix.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="119" column="25" lean-forward="true" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/window.go" />
+    <entry file="file://$PROJECT_DIR$/fileManager.go" />
+    <entry file="file://$PROJECT_DIR$/server.go" />
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/html/template/template.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8496.46835/server.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8496.24804/window.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8496.49757/manager.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8496.11283/manager.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8496.33142/manager.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4108.12590/manager.go" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4108.30547/manager.go" />
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5049">
+          <caret line="3034" column="5" selection-start-line="3034" selection-start-column="5" selection-end-line="3034" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/main.go" />
+    <entry file="file://$PROJECT_DIR$/FileMAnager/db1.txt" />
+    <entry file="file://$PROJECT_DIR$/FileMAnager/db2.txt" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileManager/manager_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileManager/manager.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding>
+            <element signature="e#18#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="e#17#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/db2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/db1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../go1.12.5/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="1152" column="43" lean-forward="true" selection-start-line="1152" selection-start-column="43" selection-end-line="1152" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovingWindow/window.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#17#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MovingWindow/window_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="78" column="11" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
