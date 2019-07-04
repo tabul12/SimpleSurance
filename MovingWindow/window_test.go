@@ -49,6 +49,11 @@ func isSorted (ls list.List) bool {
 	return true
 }
 
+
+//
+//To imitate time elapsing we define now and after that we just add 1 second
+//to nanoseconds to this now value
+//
 func TestMovingWindow_Moving_Mock(t *testing.T) {
 	mw := &MovingWindow{List: list.List{}}
 	now := time.Now().UnixNano()
